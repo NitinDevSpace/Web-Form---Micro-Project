@@ -1,7 +1,3 @@
-Micro Project Work 
-
-contact email : aniketdeytiu@gmail.com
-
 Title of the Project : Student Enrollment Form 
 
 Description : Student Enrollment Form that will store data in STUDENT-TABLE relation of SCHOOL-DB database.
